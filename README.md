@@ -1,5 +1,5 @@
 
-# RAG-based Document Q&A System
+# Full Stack RAG-based Document Q&A System
 
 This project is a **full-stack Retrieval-Augmented Generation (RAG)** system for answering questions from uploaded PDF documents. It uses:
 
